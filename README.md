@@ -1,1 +1,1 @@
-Simple guide for Java
+Simple guide for Java. It will be updated regularly.
